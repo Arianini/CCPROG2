@@ -1,6 +1,4 @@
-# CCPROG2
-
-# SoGA Data Analysis - CCPROG2 MP2
+# SoGA Data Analysis Using C Structs and Sorting Algorithms
 
 ## Project Description
 This project processes and analyzes life expectancy data from various territories based on health and environmental risk factors using structured C programming. It includes functionality to sort, search, and interpret data from the SoGA dataset.
